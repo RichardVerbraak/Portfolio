@@ -1,2 +1,3 @@
 # Portfolio
-My portfolio
+
+Some projects might still need refactoring
