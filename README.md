@@ -1,3 +1,3 @@
 # Portfolio
 
-Some projects might still need refactoring
+Some projects might (definitely) need refactoring
